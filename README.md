@@ -9,40 +9,6 @@ This project was developed as part of an academic assignment to demonstrate mobi
 
 ---
 
-## 📁 Project Structure
-
-velvet_vanity/
-│
-├── backend/                # PHP backend (API + database connection)
-│   ├── login.php
-│   ├── register.php
-│   ├── test.php
-│   └── database.sql
-│
-├── flutter_app/            # Flutter application
-│   ├── lib/
-│   │   ├── main.dart
-│   │   ├── main_navigation.dart
-│   │   ├── products_page.dart
-│   │   ├── product_details_page.dart
-│   │   ├── cart_page.dart
-│   │   ├── cart_provider.dart
-│   │   ├── favorites_page.dart
-│   │   ├── favorites_provider.dart
-│   │   ├── checkout_page.dart
-│   │   ├── promo_timer.dart
-│   │   ├── stores_page.dart
-│   │   ├── profile_page.dart
-│   │   ├── product.dart
-│   │   └── brand_logo.dart
-│   ├── assets/
-│   │   └── images/
-│   └── pubspec.yaml
-│
-└── README.md
-
----
-
 ## 🚀 Features Implemented
 
 ### 🔐 Authentication
@@ -141,5 +107,5 @@ This allowed full development and testing of the application.
 ---
 
 ## 👨‍🎓 Author
-Your Name  
+Nour Touihri
 Academic Project – Flutter & Mobile Development
